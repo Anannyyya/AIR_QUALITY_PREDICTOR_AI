@@ -1,7 +1,3 @@
-Here’s a well-structured and impressive README file for your Streamlit-based **Air Quality Prediction** project:
-
----
-
 # 🌍 Air Quality Prediction in Urban Areas  
 
 ## 📌 Overview  
@@ -59,7 +55,3 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 
 ## 📜 License  
 This project is **open-source** under the MIT License.  
-
----
-
-Would you like any modifications or enhancements? 🚀
